@@ -1,0 +1,11 @@
+git+https://github.com/THU-MIG/yolov10.git
+roboflow
+huggingface_hub
+streamlit
+tensorflow
+numpy
+pandas
+mysql-connector-python
+cv2
+tempfile
+sqlalchemy
